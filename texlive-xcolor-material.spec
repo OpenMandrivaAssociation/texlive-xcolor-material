@@ -1,6 +1,6 @@
 Name:		texlive-xcolor-material
 Version:	42289
-Release:	1
+Release:	2
 Summary:	Defines the 256 colors from Google Material Color Palette
 Group:		Publishing
 URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcolor-material
