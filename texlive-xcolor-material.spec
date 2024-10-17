@@ -3,7 +3,7 @@ Version:	42289
 Release:	2
 Summary:	Defines the 256 colors from Google Material Color Palette
 Group:		Publishing
-URL:		http://www.ctan.org/tex-archive/macros/latex/contrib/xcolor-material
+URL:		https://www.ctan.org/tex-archive/macros/latex/contrib/xcolor-material
 License:	lppl1.3
 Source0:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcolor-material.r%{version}.tar.xz
 Source1:	http://mirrors.ctan.org/systems/texlive/tlnet/archive/xcolor-material.doc.r%{version}.tar.xz
